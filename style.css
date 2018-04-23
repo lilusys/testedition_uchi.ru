@@ -1,0 +1,64 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+html, body {
+	width:100%;
+	height:100%;
+}
+
+h1 {
+	text-align:center;
+	padding: 20px 0;
+	font-size:40px;
+}
+
+input {
+	width:30px;
+	height:30px;
+	font-size:22px;
+	text-align:center;
+	
+}
+
+#d0 {
+	width:875px;
+	margin: 0 auto;
+	height:100%;
+}
+
+#d1 {
+	height:75px;
+}
+
+#path {
+	width:100%;
+	height:100%;
+}
+
+
+#ruler {
+	display:block;
+	width:100%;
+}
+
+.rightans {
+	background-color:#00db6a;
+	color:white;
+}
+
+.notrightans {
+	background-color:#ff033e;
+	color:white;	
+}
+
+.colorOn {
+	background-color:#ffff85;	
+}
+
+
+
+
+
+	
